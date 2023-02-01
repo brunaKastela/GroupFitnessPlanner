@@ -1,0 +1,50 @@
+
+body{
+    background-image: url("../../public/pexels-cottonbro-studio-7676548.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2000px;
+    background-attachment: fixed;
+}
+
+.button {
+    background-image: linear-gradient(to right, #DA22FF 0%, #9733EE  51%, #DA22FF  100%)
+  }
+.button {
+            padding: 20px 70px;
+            text-align: center;
+            text-transform: uppercase;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: large;
+            transition: 0.8s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            border:1px solid #FFFFFF;
+            font-stretch: extra-expanded;
+            letter-spacing: 0.4em;
+            margin-right: 150px;
+            margin-top: 90px;
+      }
+.button:hover {
+    background-position: right center; /* change the direction of the change here*/
+    color: #fff;
+    text-decoration: none;
+}
+.button-container{
+    float:right;
+    margin-right: 200px;
+    margin-top: 140px;
+
+
+}
+
+.motiv{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color:white;
+    margin-top: -50px;
+    letter-spacing: 0.05em;
+}

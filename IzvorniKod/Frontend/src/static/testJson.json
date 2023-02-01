@@ -1,0 +1,17 @@
+[
+    {
+        "training": ["1", "trening snage", "40",
+                    "čiste tenisice", "7",
+                    ["zgib", "bench"]],
+        "coach": ["1", "mirko", "trener", "mirko@gyms4you.hr",
+                  "mirkoTrener", "0123456789"]
+    },
+ 
+    {
+        "training": ["2", "cardio", "45",
+                    "čiste tenisice", "5",
+                    ["trčanje", "trbušnjaci"]],
+        "coach": ["1", "mirko", "trener", "mirko@gyms4ysou.hr",
+                "mirkoTrener", "0123456789"]
+    }
+]
